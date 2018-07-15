@@ -1,0 +1,27 @@
+= Ad-Hoc-Real-time-Conference-Analysis
+:idprefix:
+:idseparator: -
+:sectanchors:
+:sectlinks:
+:sectnumlevels: 6
+:sectnums:
+:icons: font
+ifdef::env-github[]
+:imagesdir: https://github.com/DMSaunders/files/blob/master/
+:tip-caption: :bulb:
+:note-caption: :information_source:
+:important-caption: :heavy_exclamation_mark:
+:caution-caption: :fire:
+:warning-caption: :warning:
+endif::[]
+:toc: macro
+:toclevels: 6
+:toc-title: 
+
+A team runs an annual 5-day training conference for up to 300 daily attendees and requires real-time, actionable insights on the proceedings. They use Google Forms to survey participants and vendors each day during and after the event. I provided an analysis by the close of each day's events to the team in order to prepare them to make changes for the next day.
+
+toc::[]
+
+TIP: Tools used: Tableau, Excel, SPSS, Nvivo, Google Suite, Google Forms
+
+to be continued...
